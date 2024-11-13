@@ -1,0 +1,2 @@
+INSERT INTO users(username, first_name, last_name,email,mobile) VALUES('vij', 'vj', 'singh','a@gmail.com','9910114123');
+INSERT INTO users(username, first_name, last_name,email,mobile) VALUES('raj', 'rj', 'singh','b@gmail.com','7738844123');
